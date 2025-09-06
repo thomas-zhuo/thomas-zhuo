@@ -4,6 +4,7 @@
 -->
 
 I am a Computer Science graduate with 18+ years of experience in technology strategy, digital transformation, and innovation leadership.  
+
 After a successful career driving partnerships and strategic growth across industries, I am now returning to my technical roots to pursue my long-standing interest in cybersecurity.  
 
 This GitHub serves as my portfolio to showcase hands-on projects, labs, and tools that reflect my journey into the cybersecurity field.  
