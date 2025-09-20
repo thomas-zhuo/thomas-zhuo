@@ -21,6 +21,17 @@ I aim to transition into a security-focused role where I can contribute to prote
 |-----------------|--------------------|
 | **IT Fundamentals (in progress)** <br> - Operating systems (Windows & Linux basics) <br> - Networking fundamentals <br> - Security basics <br> - Hardware maintenance <br> - Troubleshooting methodology <br> - Scripting | [CompTIA A+ Labs](https://github.com/thomas-zhuo/comptia-a-plus-labs) |
 
+## 🔧 Skills
+
+| Skill Area | What I Can Do | Associated Project |
+|------------|---------------|--------------------|
+| **System Information & Diagnostics** | Collect baseline system details (OS, uptime, IPs, processes) across Linux, macOS, and Windows | [Sysinfo & System Health Scripts](https://github.com/thomas-zhuo/it-ops-and-security-toolkit/tree/main/scripts/system-health) |
+| **Network Troubleshooting** | Validate connectivity, DNS resolution, and routing issues with cross-platform scripts | [Network Diagnostics Toolkit](https://github.com/thomas-zhuo/it-ops-and-security-toolkit/tree/main/scripts/network-diagnostics) |
+| **Log Analysis** | Extract and review event/system logs for warnings, errors, and anomalies | [Event Log Scripts](https://github.com/thomas-zhuo/it-ops-and-security-toolkit/tree/main/scripts/log-monitoring) |
+| **Disk & Storage Monitoring** | Check disk usage, health, and capacity alerts across OS platforms | [Disk Health Scripts](https://github.com/thomas-zhuo/it-ops-and-security-toolkit/tree/main/scripts/system-health) |
+| **Security Fundamentals** | (Planned) User/group audits, antivirus checks, firewall rules validation | [Security Toolkit](https://github.com/thomas-zhuo/it-ops-and-security-toolkit/tree/main/scripts/security) |
+
+
 
 
 
